@@ -1,3 +1,6 @@
+#NAMA : Fida Taufiq Imazuddin
+#NIM  : 220441100057
+
 print("===== KONVERSI_SUHU =====")
 
 
